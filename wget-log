@@ -1,0 +1,6 @@
+--2025-12-26 15:38:44--  https://media.licdn.com/dms/image/v2/D5622AQG4GGogH_FwSA/feedshare-shrink_2048_1536/B56ZtFoujAHIAw-/0/1766399864119?e=1768435200
+Resolving media.licdn.com (media.licdn.com)... 2606:4700:4404::ac40:9a32, 2a06:98c1:3105::6812:21ce, 104.18.33.206, ...
+Connecting to media.licdn.com (media.licdn.com)|2606:4700:4404::ac40:9a32|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2025-12-26 15:38:44 ERROR 403: Forbidden.
+
