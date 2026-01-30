@@ -119,7 +119,7 @@ BitTorrent was a significant drag on the network, operating at only **44% IPv6**
 *   BitTorrent traffic flipped from 44% to **ALL IPv6**.
 
 **Network Level:**
-*   The structural change lifted the entire network's stable operational average from ~67% to **79.2%**.
+*   The structural change lifted the entire network's stable operational average from ~67% to **>80%**.
 
 > How much would an ISP save on NAT444 at a ratio of 80% ipv6 traffic?
 
