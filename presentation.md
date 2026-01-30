@@ -168,10 +168,10 @@ Recent SQL analysis (Dec 7 – Dec 22, 2025) shows continued optimization has pu
 
 ---
 
-## Visualizing the Data
+## Storing the Data
 
-![width:850px drop-shadow](sql_data.jpeg)
-*(Ref: Clickhouse SQL Analysis confirming >90% IPv6 byte ratio)*
+![width:750px drop-shadow](sql_data.jpeg)
+*(Ref: Clickhouse SQL Analysis confirming >90% IPv6 Netflow ratio)*
 
 ---
 
@@ -274,7 +274,17 @@ Support Feature Request **#263487** to bring native 464XLAT to RouterOS.
 
 ## January 2026 Data
 
-![contain](jan2026_data.png)
+![width:900px](jan2026_data.png)
+
+---
+
+## Acknowledgement
+
+https://vaibhavbajpai.com/publications-by-year.html
+
+The research of Prof Vaibhav Bajpai and his teams.
+
+https://scholar.google.com.au/citations?user=ksAaiuUAAAAJ&hl=en&oi=ao
 
 ---
 
